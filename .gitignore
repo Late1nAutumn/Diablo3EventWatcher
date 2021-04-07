@@ -1,0 +1,6 @@
+node_modules/
+dist/
+web/renderer.js
+
+save.txt
+system.ini

@@ -1,0 +1,86 @@
+#watch {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  overflow-x: auto;
+}
+
+#watch-buttons {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+#affairEdit-icon,
+.affairEntry-icon {
+  position: relative;
+  width: 140px;
+  height: 140px;
+  margin: 5px;
+}
+
+#affairEdit-icon svg,
+.affairEntry-icon svg {
+  width: 100px;
+  height: 100px;
+  margin: 25px;
+}
+
+.affairEntry-icon svg {
+  opacity: 0;
+}
+
+.affairEntry-icon svg:hover {
+  opacity: 1;
+}
+
+#affairEdit-icon,
+.affairEntry-icon {
+  background-size: 100% 100%;
+  border-radius: 10px;
+}
+
+/*********
+ * AffairEntry
+ */
+.affairEntry {
+  width: 150px;
+  text-align: center;
+}
+
+.affairEntry-charOnIcon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 40px;
+  transform: translate(-50%, -50%);
+}
+
+/*********
+ * AffairEdit
+ */
+
+#affairEdit {
+  display: flex;
+  justify-content: left;
+}
+
+.affairEdit-col {
+  margin: 10px;
+}
+
+#affairEdit-key {
+  width: 50px;
+}
+
+#affairEdit-key-eg {
+  font-size: 12px;
+}
+
+#affairEdit-name {
+  width: 120px;
+}
+#affairEdit-duration,
+#affairEdit-cooldown {
+  width: 60px;
+}
