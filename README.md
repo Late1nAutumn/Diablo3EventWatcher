@@ -1,10 +1,10 @@
 # Diablo 3 Event Watcher
 
-This ugly application helps reminding the user when skill duration expired by detecting global key / mouse event. It also allows setting up watchers to alert incoming looping buffs.
+This ugly application helps reminding the user when skill duration expired by detecting global keyboard/mouse event. It also allows setting up watchers to alert incoming looping buffs.
 
 **[Download](https://drive.google.com/drive/folders/1FM9TpR2tfBZXzSCnq3XIrpR4FLJYiaaO?usp=sharing)**
 
-**The app also relies on Java Runtime Environment to kick.** You can install it from offical web site. But if it fails, I have a working install pack [here](https://drive.google.com/file/d/1MVl4cNIKNEbd63LTCNCCEYFl3ZN9iB2d/view?usp=sharing)
+**The app also relies on Java Runtime Environment to kick.** You need to install it if you don't have it. Installation could be found on offical web site. But if it fails, I have a working install pack **[here](https://drive.google.com/file/d/1MVl4cNIKNEbd63LTCNCCEYFl3ZN9iB2d/view?usp=sharing)**.
 
 May the primal ancient be with you.
 
