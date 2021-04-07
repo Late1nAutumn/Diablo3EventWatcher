@@ -3,7 +3,7 @@ const { app, BrowserWindow, ipcMain } = require("electron");
 const path = require("path");
 
 var mainWindow;
-
+// TODO: add frameless and clickthrough shortcuts
 function createWindow() {
   // Create the browser window.
   mainWindow = new BrowserWindow({
