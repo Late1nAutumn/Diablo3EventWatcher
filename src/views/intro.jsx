@@ -18,7 +18,7 @@ const Intro = (props) => (
       <li>检测器暂不支持组合键与大多数标点符号</li>
       <li>
         <a
-          href="https://github.com/Late1nAutumn/Diablo3EventWatcher"
+          href="https://github.com/Late1nAutumn/Diablo3EventWatcher/blob/master/README.md"
           target="_blank"
         >
           Github
