@@ -1,10 +1,8 @@
 # Diablo 3 Event Watcher
 
-## Intro
-
 This ugly application helps reminding the user when skill duration expired by detecting global key / mouse event. It also allows setting up watchers to alert incoming looping buffs.
 
-May the primal ancient be with you
+May the primal ancient be with you.
 
 ## For Dev
 
