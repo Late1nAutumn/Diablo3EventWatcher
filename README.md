@@ -27,6 +27,4 @@ npm run build
 npm start
 # Distribute Electron bundle
 npm run dist
-# Build Webpack on Windows
-npm run winbuild
 ```
